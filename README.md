@@ -1,4 +1,4 @@
-# shanproject
+# Semester project
 
 A new Flutter project.
 
